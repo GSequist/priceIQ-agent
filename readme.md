@@ -1,5 +1,27 @@
 # priceIQ agent
-> Intelligent product price discovery & market analysis
+> Intelligent product price discovery & market analysis powered by autonomous web navigation. Built on open-source browser automation, the agent traverses digital marketplaces, captures visual data, and synthesizes real-time price intelligence.
+
+## Core Features
+- 🤖 **Autonomous Navigation**: Self-guided web traversal and data extraction
+- 🔄 **Agentic Loop**: Continuous market monitoring with intelligent state management
+- 📊 **Multi-Source Analysis**: Cross-marketplace price comparison and trend detection
+- 📸 **Visual Processing**: Screenshot capture and analysis for data verification
+- 🔌 **Modular Architecture**: Extensible design - easily adapt the agentic loop for different research tasks
+
+## Use Cases
+- Real-time price monitoring across multiple marketplaces
+- Competitive analysis and market positioning
+- Product availability tracking
+- Historical price trend analysis
+
+## Technical Foundation
+Built on open-source browser automation technology, priceIQ agent combines:
+- Autonomous web navigation
+- Computer vision processing
+- Natural language understanding
+- Real-time data synthesis
+
+The modular architecture allows for easy adaptation of the agentic loop to research different domains - from product prices to any other web-based data collection and analysis task.
 
 ## Setup
 
